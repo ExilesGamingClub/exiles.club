@@ -27,6 +27,14 @@ html {
 	background: rgba(54, 54, 54, 0.9);
 }
 
+.main-content a {
+	color: #3273dc;
+}
+
+.main-content a:hover {
+	text-decoration: underline;
+}
+
 .tentacle {
 	position: absolute;
 	width: 40%;
