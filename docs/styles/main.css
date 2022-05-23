@@ -56,3 +56,10 @@ html {
 	top: 5%;
 	left: -5%;
 }
+
+.public-schedule {
+	border-width: 0;
+	max-height: calc(100vh - 10px);
+	position: relative;
+	z-index: 1;
+}
